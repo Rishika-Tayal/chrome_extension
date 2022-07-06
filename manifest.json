@@ -1,0 +1,10 @@
+{
+    "name": "You've got this!",
+    "description": "Get a motivational quote and boost up motivation.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"pics/icon.png"
+    }
+}

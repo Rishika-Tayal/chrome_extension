@@ -1,0 +1,12 @@
+p{
+    padding: 10px;
+    font-size: 16px;
+    min-width: 100px;
+    width: 300px;
+    box-shadow: rgba(28, 28, 75, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+}
+body{
+    background-color: #cfe0e8;
+    
+}
